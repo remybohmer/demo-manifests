@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<include name="common/server_settings.xml" />
+	<project path="project1"	name="demo-project-1" />
+	<project path="project2"	name="demo-project-2" />
+
+	<notice>You checked out the default manifest</notice>
+
+</manifest>
